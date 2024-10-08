@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/huspenina/CV4_2cast/CMakeProject1/out/build/x64-debug/CMakeFiles/CMakeProject1.dir
+C:/Users/student/Desktop/huspenina/CV4_2cast/CMakeProject1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/huspenina/CV4_2cast/CMakeProject1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
