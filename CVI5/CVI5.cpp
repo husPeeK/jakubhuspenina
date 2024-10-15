@@ -2,6 +2,7 @@
 //
 
 #include "CVI5.h"
+#include "vektorovySoucin.h" //prida
 
 using namespace std;
 
@@ -47,5 +48,8 @@ int main()
 
 	double skalsAB = skalarniSoucin(a, b);
 	printf("skalarni soucin AB: %.6f\n", skalsAB);
+
+	vektorovySoucin(a, b, c);
+	printf("vektorovy soucin A x B: (%.6f, %.6f, %.6f)\n", c[0], c[1], c[2]);
 	return 0;
 }

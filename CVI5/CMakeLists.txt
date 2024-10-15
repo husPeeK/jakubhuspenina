@@ -12,7 +12,9 @@ endif()
 project ("CVI5")
 
 # Přidejte zdrojový kód ke spustitelnému souboru tohoto projektu.
-add_executable (CVI5 "CVI5.cpp" "CVI5.h")
+
+add_executable (CVI5 "CVI5.cpp" "CVI5.h" "vektorovySoucin.cpp" "vektorovySoucin.h")
+
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET CVI5 PROPERTY CXX_STANDARD 20)
