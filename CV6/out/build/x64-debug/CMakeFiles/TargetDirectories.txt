@@ -1,0 +1,3 @@
+C:/Users/student/Documents/huspenina/CV6/CV6/out/build/x64-debug/CMakeFiles/CV6.dir
+C:/Users/student/Documents/huspenina/CV6/CV6/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Documents/huspenina/CV6/CV6/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
